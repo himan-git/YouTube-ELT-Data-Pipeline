@@ -1,7 +1,8 @@
 # YouTube-ELT-Data-Pipeline
 
 ## Architechture
-<img width="773" height="664" alt="image" src="https://github.com/user-attachments/assets/112f668b-695f-4775-a17d-6d25a025d067" />
+<img width="773" height="664" alt="image" src="https://github.com/user-attachments/assets/22389d21-bc5f-45e0-942c-7d85c8880d87" />
+
 
 
 ## Motivation
